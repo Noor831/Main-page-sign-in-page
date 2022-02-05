@@ -1,0 +1,23 @@
+video{
+    position:fixed;
+    right:0;
+    bottom:0;
+    width:1536px;
+    height:865px;
+}
+form{
+    margin-top:20px;
+    margin-left:100px;
+    width:424.5px;
+    background-color: rgba(63,61,61,0.377);
+    position: fixed;
+}
+input
+{
+    background-color: rgba(255,255,255,0.644);
+}
+button{
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: rgba(57,207,19,0.616);
+}
